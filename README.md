@@ -1,6 +1,8 @@
 # mlflow-demo
 Simple Demo of MLflow Project with LightGBM
 
+Note: MLflow currently is only alpha version, the APIs might change in the future.
+
 ***
 ## Data
 [Adult Data Set](http://archive.ics.uci.edu/ml/datasets/Adult) from UCI Machine Learning Repository
